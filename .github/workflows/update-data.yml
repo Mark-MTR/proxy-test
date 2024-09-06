@@ -18,10 +18,17 @@ jobs:
         curl -o data/szAlarm.js https://weather.121.com.cn/data_cache/szWeather/alarm/szAlarm.js
         # 根据需要解析并将数据写入到 data.json 文件中
 
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'actions@github.com'
+        git config --global credential.helper store
+        echo "https://$(GH_TOKEN)@github.com" > ~/.git-credentials
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9
-      with:
-        add: 'data/szAlarm.js'
-        message: 'Update data'
-        author_name: 'github-actions'
-        author_email: 'actions@github.com'
+      run: |
+        git add data/szAlarm.js
+        git commit -m 'Update data'
+        git push
