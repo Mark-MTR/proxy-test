@@ -13,6 +13,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Clear old data
+      run: |
+        > data/szAlarm.js  # 清空文件内容
+
     - name: Fetch data
       run: |
         curl -o data/szAlarm.js https://weather.121.com.cn/data_cache/szWeather/alarm/szAlarm.js
