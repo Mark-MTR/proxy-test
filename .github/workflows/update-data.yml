@@ -1,0 +1,27 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # 每15分钟运行一次
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch data
+      run: |
+        curl -o data/szAlarm.js https://weather.121.com.cn/data_cache/szWeather/alarm/szAlarm.js
+        # 根据需要解析并将数据写入到 data.json 文件中
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'data/szAlarm.js'
+        message: 'Update data'
+        author_name: 'github-actions'
+        author_email: 'actions@github.com'
