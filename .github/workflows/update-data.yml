@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # 每15分钟运行一次
+    - cron: '*/5 * * * *'  # 每5分钟运行一次
   workflow_dispatch:
 
 jobs:
