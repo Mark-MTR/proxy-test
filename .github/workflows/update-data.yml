@@ -13,14 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Clear old data
+    - name: Fetch MESISarea_lg.js
       run: |
-        > data/szAlarm.js  # 清空文件内容
+        curl -o data/MESISarea_lg.js https://weather.121.com.cn/data_cache/szWeather/fenquyubao/MESISarea_lg.js
 
-    - name: Fetch data
+    - name: Fetch szAlarm.js
       run: |
         curl -o data/szAlarm.js https://weather.121.com.cn/data_cache/szWeather/alarm/szAlarm.js
-        # 根据需要解析并将数据写入到 data.json 文件中
 
     - name: Configure Git
       run: |
@@ -33,6 +32,6 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git add data/szAlarm.js
-        git commit -m 'Update data'
+        git add data/MESISarea_lg.js data/szAlarm.js
+        git commit -m 'Update MESISarea_lg.js and szAlarm.js'
         git push
