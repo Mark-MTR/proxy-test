@@ -1,3 +1,3 @@
-/*@cdate:2025-05-28 19:10:18*/
+/*@cdate:2025-05-28 19:26:00*/
 /*@ver:6.0.0*/
-try{ var SZ121_AlarmInfo = {"warnpre":{"flagindex":0},"subAlarm":[],"sshzqAlarm":[],"xgAlarm":[],"alarmInfo":"【深圳市解除全市雷电预警信号】我市周边及上游的雷暴云团已减弱，深圳市气象台2025年05月23日23时20分解除全市雷电预警信号。","alarmSSInfo":"【深汕特别合作区解除雷电预警信号】 雷暴云团已移出我区，深圳市气象台2025年05月18日19时45分解除深汕特别合作区雷电预警信号。","recID":"111981","alarmDate":"2025-05-23 23:20:00","alarmSSDate":"2025-05-18 19:45:00","ingnalNum":"0"};}catch(e){}
+try{ var SZ121_AlarmInfo = {"warnpre":{"flagindex":0},"subAlarm":[{"pic":"202505/81955.png","picS":"202505/81955_ss.png","ingnalnum":4194304,"date":"2025-05-28 19:25:00","recID":111982,"alarmArea":"全市陆地、珠江口、深圳湾、大鹏湾、大亚湾","alarmType":"雷电","alarmColor":"","icon":"leidian","str":"【深圳市雷电预警信号】深圳市气象台于2025年05月28日19时25分发布全市雷电预警信号，预计2小时内全市将出现阵雨并伴有雷电。市民停留在安全地方。","isShenShan":false,"ifTyphoon":0,"order":15}],"sshzqAlarm":[],"xgAlarm":[],"alarmInfo":"【深圳市雷电预警信号】深圳市气象台于2025年05月28日19时25分发布全市雷电预警信号，预计2小时内全市将出现阵雨并伴有雷电。市民停留在安全地方。","alarmSSInfo":"【深汕特别合作区解除雷电预警信号】 雷暴云团已移出我区，深圳市气象台2025年05月18日19时45分解除深汕特别合作区雷电预警信号。","recID":"111982","alarmDate":"2025-05-28 19:25:00","alarmSSDate":"2025-05-18 19:45:00","ingnalNum":"82"};}catch(e){}
