@@ -62,7 +62,7 @@
 		<div class="mb30 text_wrapper">
 			<h1>504</h1>
 			<h2><span id="error_503"></span></h2>
-			<p class="b"><span class="sp" >Client:<span id="client_ip"></span></span> <span class="hr">Node:2b8f686</span> <span class="sp">Time:<span id="time_error"></span></span></p>
+			<p class="b"><span class="sp" >Client:<span id="client_ip"></span></span> <span class="hr">Node:22e298e</span> <span class="sp">Time:<span id="time_error"></span></span></p>
 		</div>
 		<div class="ms">
 			<div class="m">
@@ -100,7 +100,7 @@
 		</div>
 	</body>
     <script>
-		var data = {"time_error":"18\/Oct\/2025:01:50:05 +0800","t_msg":"","t_link":"","display":false,"client_ip":"172.184.209.177","error_503":""};
+		var data = {"display":false,"client_ip":"20.171.125.133","time_error":"18\/Oct\/2025:01:59:22 +0800","error_503":"","t_msg":"","t_link":""};
 		document.getElementById("hostname").innerText = document.location.hostname;
 		document.getElementById('error_503').innerText = data['error_503'];
 		document.getElementById('client_ip').innerText = data['client_ip'];
