@@ -1,3 +1,127 @@
-/*@cdate:2025-10-29 22:21:01*/
-/*@ver:6.0.0*/
-try{ var WF_lg = {"hoursweather":[{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":24.0,"maxT":24.0,"minU":77,"maxU":77,"ws":"2","wspeed":"2.4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-29 21:00:00","icon":"03.png","state":"阴","maxt":24.0,"mint":24.0,"area":"龙岗区","maxh":77,"forecasttime":"2025-10-29 21:00:00","h":77,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":24.0,"maxT":24.0,"minU":80,"maxU":80,"ws":"2","wspeed":"2.6","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-29 22:00:00","icon":"03.png","state":"阴","maxt":24.0,"mint":24.0,"area":"龙岗区","maxh":80,"forecasttime":"2025-10-29 22:00:00","h":80,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.8,"maxT":23.8,"minU":79,"maxU":79,"ws":"2","wspeed":"2.1","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-29 23:00:00","icon":"03.png","state":"阴","maxt":23.8,"mint":23.8,"area":"龙岗区","maxh":79,"forecasttime":"2025-10-29 23:00:00","h":79,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.6,"maxT":23.6,"minU":82,"maxU":82,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 00:00:00","icon":"03.png","state":"阴","maxt":23.6,"mint":23.6,"area":"龙岗区","maxh":82,"forecasttime":"2025-10-30 00:00:00","h":82,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.4,"maxT":23.4,"minU":82,"maxU":82,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 01:00:00","icon":"03.png","state":"阴","maxt":23.4,"mint":23.4,"area":"龙岗区","maxh":82,"forecasttime":"2025-10-30 01:00:00","h":82,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":22.2,"maxT":22.2,"minU":83,"maxU":83,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 02:00:00","icon":"03.png","state":"阴","maxt":22.2,"mint":22.2,"area":"龙岗区","maxh":83,"forecasttime":"2025-10-30 02:00:00","h":83,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":22.0,"maxT":22.0,"minU":84,"maxU":84,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 03:00:00","icon":"03.png","state":"阴","maxt":22.0,"mint":22.0,"area":"龙岗区","maxh":84,"forecasttime":"2025-10-30 03:00:00","h":84,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":22.8,"maxT":22.8,"minU":85,"maxU":85,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 04:00:00","icon":"03.png","state":"阴","maxt":22.8,"mint":22.8,"area":"龙岗区","maxh":85,"forecasttime":"2025-10-30 04:00:00","h":85,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.0,"maxT":23.0,"minU":80,"maxU":80,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 05:00:00","icon":"03.png","state":"阴","maxt":23.0,"mint":23.0,"area":"龙岗区","maxh":80,"forecasttime":"2025-10-30 05:00:00","h":80,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.0,"maxT":23.0,"minU":75,"maxU":75,"ws":"3","wspeed":"5.2","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 06:00:00","icon":"03.png","state":"阴","maxt":23.0,"mint":23.0,"area":"龙岗区","maxh":75,"forecasttime":"2025-10-30 06:00:00","h":75,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":23.0,"maxT":23.0,"minU":70,"maxU":70,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 07:00:00","icon":"03.png","state":"阴","maxt":23.0,"mint":23.0,"area":"龙岗区","maxh":70,"forecasttime":"2025-10-30 07:00:00","h":70,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":24.0,"maxT":24.0,"minU":67,"maxU":67,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 08:00:00","icon":"03.png","state":"阴","maxt":24.0,"mint":24.0,"area":"龙岗区","maxh":67,"forecasttime":"2025-10-30 08:00:00","h":67,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":25.0,"maxT":25.0,"minU":60,"maxU":60,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 09:00:00","icon":"03.png","state":"阴","maxt":25.0,"mint":25.0,"area":"龙岗区","maxh":60,"forecasttime":"2025-10-30 09:00:00","h":60,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":26.0,"maxT":26.0,"minU":60,"maxU":60,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 10:00:00","icon":"03.png","state":"阴","maxt":26.0,"mint":26.0,"area":"龙岗区","maxh":60,"forecasttime":"2025-10-30 10:00:00","h":60,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":27.0,"maxT":27.0,"minU":60,"maxU":60,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 11:00:00","icon":"03.png","state":"阴","maxt":27.0,"mint":27.0,"area":"龙岗区","maxh":60,"forecasttime":"2025-10-30 11:00:00","h":60,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":28.0,"maxT":28.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 12:00:00","icon":"03.png","state":"阴","maxt":28.0,"mint":28.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 12:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":28.0,"maxT":28.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 13:00:00","icon":"03.png","state":"阴","maxt":28.0,"mint":28.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 13:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"多云","reportEn":"Cloudy","minT":28.0,"maxT":28.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 14:00:00","icon":"02_2.png","state":"多云","maxt":28.0,"mint":28.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 14:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Cloudy","weatherpic":"02_2.png"},{"areaName":"龙岗区","report":"多云","reportEn":"Cloudy","minT":28.0,"maxT":28.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 15:00:00","icon":"02_2.png","state":"多云","maxt":28.0,"mint":28.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 15:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Cloudy","weatherpic":"02_2.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":28.0,"maxT":28.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 16:00:00","icon":"03.png","state":"阴","maxt":28.0,"mint":28.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 16:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":27.0,"maxT":27.0,"minU":55,"maxU":55,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 17:00:00","icon":"03.png","state":"阴","maxt":27.0,"mint":27.0,"area":"龙岗区","maxh":55,"forecasttime":"2025-10-30 17:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"},{"areaName":"龙岗区","report":"阴","reportEn":"Overcast","minT":26.0,"maxT":26.0,"minU":70,"maxU":70,"ws":"3","wspeed":"4","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-30 18:00:00","icon":"03.png","state":"阴","maxt":26.0,"mint":26.0,"area":"龙岗区","maxh":70,"forecasttime":"2025-10-30 18:00:00","h":70,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"}],"dayreport":{"areaName":"龙岗区","report":"阴天间多云，局部偶有零星小雨","reportEn":"Overcast","minT":22.0,"maxT":28.0,"minU":55,"maxU":85,"ws":"2-3","wd":"东北","r":"0","pubTime":"2025-10-29 16:06:11","reportTime":"2025-10-29 16:00:00","icon":"03.png","isnextday":0,"state":"阴天间多云，局部偶有零星小雨","maxt":28.0,"mint":22.0,"area":"龙岗区","maxh":85,"forecasttime":"2025-10-29 16:00:00","h":55,"ddate":"2025-10-29 16:06:11","stateen":"Overcast","weatherpic":"03.png"}};}catch(e){}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+body{ background:#fff; font-family: microsoft yahei; color:#969696; font-size:14px;}
+.online-desc-con { text-align:center; }
+.r-tip01 { color: #333; font-size: 18px; display: block; text-align: center; width: 600px; padding: 0 10px; overflow: hidden; text-overflow: ellipsis; margin: 0 auto 15px; }
+.r-tip02 { color: #585858; font-size: 14px; display: block; margin-top: 20px; margin-bottom: 20px; }
+#notice-jiasule {
+  word-wrap: break-word;
+  word-break: normal;
+  color:#585858;
+  border:1px solid #ddd;
+  padding:0px 20px 0px 20px
+}
+img { border: 0; }
+.u-ico{ vertical-align: middle; margin-right: 12px;}
+.btn{ padding: 8px 22px; border-radius: 3px; border: 0; display: inline-block;vertical-align: middle;text-decoration: none;}
+.btn-g{ background-color: #61b25e; color: #fff;}
+.report {color: #858585; text-decoration: none;}
+.report:hover {text-decoration: underline; color: #0088CC;}
+hr{ border-top: 1px dashed #ddd;}
+center{ line-height: 48px; color: #919191;}
+.b-box {display: none;background: #0B6FD6;margin: -8px -8px 0 -8px;height: 32px;}
+.b-body {position: relative;left:50%;max-width: 1200px;transform: translateX(-50%);padding-top: 5px;white-space:nowrap;}
+.b-ico-box {display: inline-block;margin-right: 4px;}
+.b-ico {height: 18px;width: 18px;}
+.b-msg-box {display: inline-block;font-size: 14px;color: #fff;width: 96%;white-space:nowrap;overflow:hidden;}
+.b-msg {display: inline-block;font-size: 14px;color: #fff;padding-right: 20px;}
+#second {font-style: normal;}
+.dn {display: none;}
+</style>
+</head>
+<body>
+<div class="b-box"><div class="b-body"><div class="b-ico-box"><img class="b-ico" src="/cdn-cgi/image/alt.svg" alt=""></div><div id="msg-box" class="b-msg-box"><a id="flink" class="b-msg" href="#"></a><a id="slink" class="b-msg" href="#"></a></div></div></div>
+<div class="online-desc-con" style="width:640px;padding-top:15px;margin:34px auto;" >
+    <img id="wafblock" alt="" style="margin: 0 auto 17px auto;" />
+    <div id="content_rendered">
+        <span class="r-tip01" id="error_403"></span>
+        <span class="r-tip01" id="error_403_en"></span>
+        <div id='notice-jiasule'>
+            <p>当前网址：<span id="url"></span></p>
+            <p>客户端特征：<span id="user_agent"></span></p>
+            <p>拦截时间：<span id="now"></span>&nbsp;&nbsp;本次事件ID&nbsp;<span id="rule_id"></span></p>
+        </div>
+        <span class='r-tip02'>
+            <img class='u-ico' alt='' src='/cdn-cgi/image/guest.png' />如果您是网站管理员，请登录知道创宇云防御&nbsp;
+            <a class='btn btn-g' id='detail-link' href='#' target='_blank'>查看详情</a>
+            &nbsp;或者&nbsp;
+            <a class='report' id='report-link' href='#' target='_blank'>反馈误报</a>
+        </span>
+        <!-- <span class='r-tip02 dn' id="second-box"><em id="second"></em>秒后进入帮助页面</span> -->
+    </div>
+    <hr />
+    <center>client: <span id="client_ip"></span>, server: 2b547d9, time: <span id="time_error"></span></center>
+</div>
+<script>
+    void(function fuckie6(){if(location.hash && /MSIE 6/.test(navigator.userAgent) && !/jsl_sec/.test(location.href)){location.href = location.href.split('#')[0] + '&jsl_sec' + location.hash}})();
+    var data = {"error_403_en":"","error_403":"创宇盾提示您：Knownsec CloudWAF: Your IP is not allowed to visit this website!","client_ip":"40.79.245.26","time_error":"29\/Oct\/2025:22:41:39 +0800","error_403_type":"foregin_ip","t_msg":"","t_link":"","display":false};
+    var from = encodeURIComponent(document.referrer.substr(0, 1024));
+    var rule_id = parseInt(data['rule_id']) || '';
+    var client_ip = data['client_ip'];
+    if (!('display' in data) || data['display'] === true) {
+        var divs = document.getElementsByClassName('b-box');
+        for (var i = 0; i < divs.length; i++) {
+            divs[i].style.display = 'block';
+        }
+    }
+    var ref = encodeURIComponent(document.URL.substr(0, 1024));
+    document.getElementById("wafblock").src = '/cdn-cgi/image/' + (data['error_403_type'] || 'hacker') + '.png';
+    document.getElementById('error_403').innerText = data['error_403'] || '创宇盾提示您：当前访问疑似黑客攻击，已被网站管理员设置为拦截';
+    document.getElementById('error_403_en').innerText = data['error_403_en'];
+    document.getElementById('url').innerText = document.URL.replace(/\</g,"%3C").replace(/\>/g,"%3E");
+    document.getElementById('user_agent').innerText = navigator.userAgent;
+    document.getElementById('now').innerText = new Date(new Date() - -8 * 3600000).toISOString().substr(0, 19).replace('T', ' ');
+    document.getElementById('rule_id').innerText = rule_id;
+    document.getElementById('client_ip').innerText = client_ip;
+    document.getElementById('time_error').innerText = data['time_error'];
+    document.getElementById('detail-link').href = 'http://help.yunaq.com/feedback.html?from=' + from + '&rule_id=' + rule_id + '&client_ip=' + client_ip + '&referrer=' + ref + '#pus';
+    document.getElementById('report-link').href = 'http://help.yunaq.com/feedback.html?from=' + from + '&rule_id=' + rule_id + '&client_ip=' + client_ip + '&referrer=' + ref + '#hus';
+    // if (data['error_403_type'] === 'pac' || data['error_403_type'] === 'frequency_high') {
+    //     var sbox = document.getElementById('second-box');
+    //     sbox.classList.remove('dn');
+    //     var second = 2;
+    //     var ele = document.getElementById('second');
+    //     ele.innerText = second;
+    //     var link_url;
+    //     if (data['error_403_type'] === 'pac') {
+    //         link_url = "https://help.yunaq.com/pac.html";
+    //     } else if (data['error_403_type'] === 'frequency_high') {
+    //         link_url = "https://help.yunaq.com/limit_rate.html";
+    //     }
+    //     var eid = setInterval(function() {
+    //         second--;
+    //         ele.innerText = second;
+    //         if (second == 0) {
+    //             clearInterval(eid);
+    //             sbox.outerHTML = "";
+    //             window.location.href = link_url;
+    //         }
+    //     }, 1000);
+    //     document.getElementById('detail-link').addEventListener("click", function() {
+    //         clearInterval(eid);
+    //         sbox.outerHTML = "";
+    //     });
+    //     document.getElementById('report-link').addEventListener("click", function() {
+    //         clearInterval(eid);
+    //         sbox.outerHTML = "";
+    //     });
+    // }
+    function getOffsetLimit(msgW, boxW, pad) {var limit = init = 0;if (msgW+pad>boxW){limit = msgW+pad;if (msgW + pad - boxW > 20){init = pad}}else{limit = (msgW+pad)*2;init = -boxW}return {limit: limit, init: init}};
+    var fst = document.getElementById('flink');
+    var last = document.getElementById('slink');
+    fst.innerText = last.innerText = data['t_msg'];
+    fst.href = last.href = data['t_link'];
+    var msgW = fst.getBoundingClientRect().width;
+    var msgBox = document.getElementById('msg-box');
+    var boxW = msgBox.getBoundingClientRect().width;
+    var run = getOffsetLimit(msgW, boxW, 20);
+    var ofst = 0;
+    function runner() {ofst = ofst >= run.limit ? run.init : (ofst + 2);fst.style.transform = 'translateX('+(-ofst)+'px)';last.style.transform = 'translateX('+(-ofst)+'px)';};
+    setInterval(runner, 100);
+</script>
+</body>
+</html>
+
