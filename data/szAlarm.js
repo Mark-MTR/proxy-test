@@ -53,11 +53,11 @@ center{ line-height: 48px; color: #919191;}
         <!-- <span class='r-tip02 dn' id="second-box"><em id="second"></em>秒后进入帮助页面</span> -->
     </div>
     <hr />
-    <center>client: <span id="client_ip"></span>, server: 9b4498a, time: <span id="time_error"></span></center>
+    <center>client: <span id="client_ip"></span>, server: 4d68c14, time: <span id="time_error"></span></center>
 </div>
 <script>
     void(function fuckie6(){if(location.hash && /MSIE 6/.test(navigator.userAgent) && !/jsl_sec/.test(location.href)){location.href = location.href.split('#')[0] + '&jsl_sec' + location.hash}})();
-    var data = {"t_msg":"","t_link":"","display":false,"error_403_en":"","error_403":"创宇盾提示您：Knownsec CloudWAF: Your IP is not allowed to visit this website!","client_ip":"40.116.73.182","time_error":"29\/Oct\/2025:23:14:17 +0800","error_403_type":"foregin_ip"};
+    var data = {"t_msg":"","t_link":"","display":false,"error_403_en":"","error_403":"创宇盾提示您：Knownsec CloudWAF: Your IP is not allowed to visit this website!","client_ip":"135.232.177.186","time_error":"29\/Oct\/2025:23:36:38 +0800","error_403_type":"foregin_ip"};
     var from = encodeURIComponent(document.referrer.substr(0, 1024));
     var rule_id = parseInt(data['rule_id']) || '';
     var client_ip = data['client_ip'];
